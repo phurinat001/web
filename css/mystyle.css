@@ -1,0 +1,24 @@
+h1{
+    color: red;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: green;
+}
+
+.center {
+    text-align: center;
+    color: red;
+  }
+  .c {
+    text-align: center;
+    color: blue;
+  }
+  #i {
+      text-align: center;
+        color: green;
+  }
+
+  
